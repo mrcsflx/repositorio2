@@ -26,7 +26,7 @@ esto es un parrafoerdtfghyuiokgdcgiaersuvaeroiñhiralbljv-laevvlnlvavlnihha-euae
 
 wedwefewfcw9hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhqufhewruivbgfrwievewaruivgewghvfuewgvfewgvfewgwbkVFGVWBAKVGHACUYSDEFESUFVBEWUBVUEWVGBEWYIVGBWELIVBEWUVEWGVBE.
 
-``
+```
 
 <html>
     <head>  
@@ -34,5 +34,5 @@ wedwefewfcw9hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhqufhewruivbgfrwievewar
         <p> esto es un codigo en HTML </p>
     <body>
 </html>
-``
+```
 [link](https://www.fje.edu/ca/jesuites-bellvitge ''enlace a la web del cole'')
