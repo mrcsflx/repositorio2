@@ -10,3 +10,14 @@ estilos se pueden **_anidar_**
 listas ordenadas
 1. primer elemento de la lista
 2. segundo elemento de la lista
+
+listas desordenadas
+
+* primer elemento
+* segundo elemento
+- tercer elemento
+- cuarto elemento
+    1. primer sub elemento
+    2. segundo sub elemento
++ quinto elemento
++ sexto elemento
