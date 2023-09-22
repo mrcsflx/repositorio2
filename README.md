@@ -1,6 +1,6 @@
-# titulo principal
+# titulo H1 principal
 
-## titulo de segundo nivel
+## titulo H2 de segundo nivel
 
 ###### titulo H6 (el mas pequeño)
 
