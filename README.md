@@ -43,3 +43,8 @@ wedwefewfcw9hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhqufhewruivbgfrwievewar
 |----------|:----------:|----------:|
 |col 3 es|centrada|500€|
 |col 3 es|derecha|1500€|
+
+###### Examen
+-[ ] opcion A
+-[x] opcion B
+-[ ] opcion C
