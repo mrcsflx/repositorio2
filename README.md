@@ -38,3 +38,8 @@ wedwefewfcw9hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhqufhewruivbgfrwievewar
 [link](https://www.fje.edu/ca/jesuites-bellvitge "enlace a la web del cole")
 
 ![imagen de miedosa](https://github.com/mrcsflx/repositorio2/blob/main/victor.jpg "horror")
+
+|Titulo |Alineacion | Precios|
+|----------|:----------:|----------:|
+|col 3 es|centrada|500€|
+|col 3 es|derecha|1500€|
