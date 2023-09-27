@@ -45,6 +45,6 @@ wedwefewfcw9hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhqufhewruivbgfrwievewar
 |col 3 es|derecha|1500€|
 
 ###### Examen
--[ ] opcion A
--[x] opcion B
--[ ] opcion C
+- [ ] opcion A
+- [x] opcion B
+- [ ] opcion C
